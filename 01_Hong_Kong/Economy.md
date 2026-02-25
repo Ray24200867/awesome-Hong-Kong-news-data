@@ -15,11 +15,11 @@
 
 ### Search and rescue cases in the mountains due to bad weather in HongKong
 - **ID:** ISSH33/2025
-- **Provider:** Census and Statistics Department
+- **Provider:** Legislative council
 - **Update Frequency:** 5 year annually
 - **Format:** pdf
 - **Description:** The number of mountain search and rescue cases due to bad weather has risen for four consecutive years, reaching a seven-year high
-- **Direct Link:** [Click Here](https://www.censtatd.gov.hk/en//web_table.html?id=130-06606A)
+- **Direct Link:** [Click Here](file:///Users/xiahanyu/Desktop/JOUR3305%20Bess/%E9%A1%98%E6%96%87%E4%BB%B6.pdf)
 - **Added By:** YUXIAHAN ([YU XIAHAN](https://github.com/Ray24200867))
 - **Stories in Action:** 
 惡劣天氣山嶺搜救個案4連升　創7年新高　飛行救援高成本金額曝光 | 香港01

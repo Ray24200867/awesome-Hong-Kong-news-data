@@ -13,7 +13,16 @@
 嶺大LingU收分2026｜JUPAS課程收生分數/計分/面試要求一文看清
 ([News link](https://www.hk01.com/article/1011531?utm_source=01articlecopy&utm_medium=referral ))
 
-
+### Search and rescue cases in the mountains due to bad weather in HongKong
+- **ID:** ISSH33/2025
+- **Provider:** Census and Statistics Department
+- **Update Frequency:** 5 year annually
+- **Format:** pdf
+- **Description:** The number of mountain search and rescue cases due to bad weather has risen for four consecutive years, reaching a seven-year high
+- **Direct Link:** [Click Here](https://www.censtatd.gov.hk/en//web_table.html?id=130-06606A)
+- **Added By:**YU Xiahan ([https://github.com/Ray24200867])
+- **Stories in Action:** 
+惡劣天氣山嶺搜救個案4連升　創7年新高　飛行救援高成本金額曝光 | 香港01 https://www.hk01.com/article/60293116?utm_source=01articlecopy&utm_medium=referral
 
 ### 2019/20 Household Expenditure Survey
 - **ID:** Table 130-06606A

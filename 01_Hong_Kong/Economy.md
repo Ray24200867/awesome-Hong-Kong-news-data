@@ -20,9 +20,10 @@
 - **Format:** pdf
 - **Description:** The number of mountain search and rescue cases due to bad weather has risen for four consecutive years, reaching a seven-year high
 - **Direct Link:** [Click Here](https://www.censtatd.gov.hk/en//web_table.html?id=130-06606A)
-- **Added By:**YU Xiahan ([https://github.com/Ray24200867])
+- **Added By:** YUXIAHAN ([YU XIAHAN](https://github.com/Ray24200867))
 - **Stories in Action:** 
-惡劣天氣山嶺搜救個案4連升　創7年新高　飛行救援高成本金額曝光 | 香港01 https://www.hk01.com/article/60293116?utm_source=01articlecopy&utm_medium=referral
+惡劣天氣山嶺搜救個案4連升　創7年新高　飛行救援高成本金額曝光 | 香港01
+([News link](https://www.hk01.com/article/60293116?utm_source=01articlecopy&utm_medium=referral))
 
 ### 2019/20 Household Expenditure Survey
 - **ID:** Table 130-06606A

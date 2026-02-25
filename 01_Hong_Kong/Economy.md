@@ -19,7 +19,7 @@
 - **Update Frequency:** 5 year annually
 - **Format:** pdf
 - **Description:** The number of mountain search and rescue cases due to bad weather has risen for four consecutive years, reaching a seven-year high
-- **Direct Link:** [Click Here](file:///Users/xiahanyu/Desktop/JOUR3305%20Bess/%E9%A1%98%E6%96%87%E4%BB%B6.pdf)
+- **Direct Link:** [Click Here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://app7.legco.gov.hk/rpdb/tc/uploads/2025/ISSH/ISSH33_2025_20250926_tc.pdf)
 - **Added By:** YUXIAHAN ([YU XIAHAN](https://github.com/Ray24200867))
 - **Stories in Action:** 
 惡劣天氣山嶺搜救個案4連升　創7年新高　飛行救援高成本金額曝光 | 香港01
